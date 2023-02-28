@@ -18,7 +18,7 @@ while flag:
 
 random_number = random.randint(lower_limit,upper_limit)
 
-print("Chosen Num:", random_number)
+#print("Chosen Num:", random_number)
 
 chances = 10
 if mode == "medium":
